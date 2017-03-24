@@ -1,0 +1,144 @@
+.navbar {
+  background-color: #722872; 
+  height: 80px;
+  padding-top: 19px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  
+  }
+  
+.row {
+    background-color: #888888;
+}
+
+.btn {
+  text-transform: uppercase;
+  }
+.col-md-8 {
+    background-color: #EEEEEE;   
+}
+
+.acolor{
+    background-color: #AAAAAA;
+}
+
+.portfolio{
+    background-color: #EEEEEE; 
+    margin-left: 25px;
+    margin-right: 25px
+}
+
+#portfolio-title{
+   
+    margin-top: 30px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+hr {
+    background-color: #eee;
+    border: 0 none;
+    color: #eee;
+    height: 6px;
+}
+hr.fifty{
+   background-color: #888888;
+    border: 0 none;    
+    height: 6px;
+  }
+hr#normal-hr {
+ 
+  background-color: #888888;
+  height: 2px;
+  }
+
+
+
+
+.borderadu {
+    border-radius: 50%;
+}
+
+img{  
+    margin-top: 50px;
+}
+
+.purplecolor {
+    background-color: #722872;
+}
+
+.mycopywright {
+    color: white;
+    padding-top:25px;
+    padding-bottom: 25px;
+}
+
+.abtpage{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.abtpadding{
+    padding-bottom: 25px;   
+    font-weight: bold;
+}
+
+.social-links {
+    text-align:center;
+}
+
+.social-links a{
+    display: inline-block;
+    width:50px;
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 50px;
+    margin-right: 15px;
+
+}
+.social-links a i{
+    padding: 18px 11px;
+    font-size: 20px;
+    color: white;
+}
+
+.social-links a:hover{
+    background-color: white;   
+}
+
+.social-links a:hover i{
+    color: #722872;
+}
+
+.apply-white {
+    color: white;
+  }
+
+#purple-link {
+    color:#722872; 
+  }
+
+.front-end-dev {
+    padding-top: 100px;
+    padding-left: 26px;
+    color: white;
+    padding-bottom: 46px;
+  
+  }
+#front-dev {
+    line-height: 34px;
+}
+.navbar-brand { 
+    padding-left: 140px;
+   }
+
+.navbar-right {
+    padding-right: 130px
+  }
+.get-in-touch {
+  padding-top: 20px;
+  line-height: 30px;
+  padding-bottom: 20px;
+  }
